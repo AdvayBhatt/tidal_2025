@@ -1,8 +1,6 @@
 Gemini AI challenge (MLH)
 - Roo extension
 
-AI - statistics at scale
-
 Ideas:
 
 Finding out if a property is managed by an HOA using indicators
