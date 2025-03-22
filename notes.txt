@@ -1,0 +1,18 @@
+Gemini AI challenge (MLH)
+- Roo extension
+
+AI - statistics at scale
+
+Ideas:
+
+Finding out if a property is managed by an HOA using indicators
+- densely populated area with buildings that cluster into std shapes
+- shapes of common areas near houses perhaps thru compactness 
+
+Data:
+- national 911 property address dataset
+- Denton CAD GIS data
+- Bing buildings dataset
+
+Lat long goes links data together
+Use denton CAD lookups and google searches to confirm samples of data once algo identifies data
